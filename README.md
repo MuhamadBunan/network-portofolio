@@ -90,18 +90,6 @@ Each lab includes:
 
 ---
 
-## Cybersecurity Labs
-
-Practical cybersecurity exercises including:
-
-* Vulnerability Scanning
-* Network Traffic Analysis
-* Web Security Testing
-* Basic Enumeration
-* Security Assessment
-
----
-
 ## Documentation
 
 Every project is documented with:
