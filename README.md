@@ -126,9 +126,9 @@ My goal is to build a career as a **Network Engineer**, **Network Security Engin
 
 # 📫 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn profile)*
-* GitHub: *(Add your GitHub profile)*
-* Email: *(Add your professional email)*
+* LinkedIn: *https://www.linkedin.com/in/muhamad-bunan-imtias-a69305273/*
+* GitHub: *https://github.com/MuhamadBunan/*
+* Email: *bunanimtias@gmail.com*
 
 ---
 
